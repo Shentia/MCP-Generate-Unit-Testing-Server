@@ -51,12 +51,12 @@
     "@babel/parser": "^7.26.2",
     "@babel/traverse": "^7.25.9",
     "@babel/types": "^7.26.0",
-    "node-fetch": "^3.3.2"
+    "node-fetch": "^3.3.2",
+    "typescript": "^5.7.2"
   },
   "devDependencies": {
     "@types/babel__core": "^7.20.5",
     "@types/babel__traverse": "^7.20.6",
-    "@types/node": "^20.17.6",
-    "typescript": "^5.7.2"
+    "@types/node": "^20.17.6"
   }
 }
