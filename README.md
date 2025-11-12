@@ -238,5 +238,5 @@ Contributions welcome! Please ensure:
 
 ## Support
 
-For issues or questions, please open an issue on the repository.
-Author: Ahmadreza Shamimi (https://github.com/shentia)
+- For issues or questions, please open an issue on the repository.
+- Author: Ahmadreza Shamimi (https://github.com/shentia)
