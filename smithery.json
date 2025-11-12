@@ -9,11 +9,16 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/Shentia/MCP-Generate-Unit-Testing-Server.git"
+    "url": "https://github.com/Shentia/MCP-Generate-Unit-Testing-Server"
   },
   "author": {
     "name": "Ahmadreza Shamimi",
     "url": "https://github.com/shentia"
   },
-  "homepage": "https://github.com/Shentia/MCP-Generate-Unit-Testing-Server#readme"
+  "homepage": "https://github.com/Shentia/MCP-Generate-Unit-Testing-Server#readme",
+  "runtime": {
+    "type": "node",
+    "command": "node",
+    "args": ["build/index.js"]
+  }
 }
