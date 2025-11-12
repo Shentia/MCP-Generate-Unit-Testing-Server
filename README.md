@@ -2,6 +2,10 @@
 
 An intelligent Model Context Protocol (MCP) server that automatically generates comprehensive unit tests for Angular, React, and Next.js projects using Jest, Karma/Jasmine, or other testing frameworks.
 
+<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/cbc6b944-52cd-4247-88ff-c6111f43555d" />
+
+
+
 ## Features
 
 - 🔍 **Automatic Project Detection** - Detects Angular, React, or Next.js projects and their versions
