@@ -1,0 +1,19 @@
+{
+  "name": "mcp-generate-unit-testing",
+  "displayName": "Generate Unit Testing",
+  "description": "Automatically generates comprehensive unit tests for Angular, React, and Next.js projects using Jest, Karma/Jasmine, or other testing frameworks",
+  "version": "1.0.0",
+  "icon": "🧪",
+  "categories": ["development", "testing", "automation"],
+  "tags": ["unit-testing", "jest", "jasmine", "karma", "angular", "react", "nextjs", "test-generation", "code-coverage"],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Shentia/MCP-Generate-Unit-Testing-Server.git"
+  },
+  "author": {
+    "name": "Ahmadreza Shamimi",
+    "url": "https://github.com/shentia"
+  },
+  "homepage": "https://github.com/Shentia/MCP-Generate-Unit-Testing-Server#readme"
+}
