@@ -45,7 +45,8 @@
   "files": [
     "build/**/*",
     "README.md",
-    "LICENSE"
+    "LICENSE",
+    "smithery.json"
   ],
   "dependencies": {
     "@modelcontextprotocol/sdk": "^1.0.4",
