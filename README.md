@@ -189,8 +189,7 @@ describe('Button', () => {
     expect(handleClick).toHaveBeenCalledTimes(1);
   });
 
-  // ... more tests for edge cases
-});
+  // ... more tests for edge cases;
 ```
 
 ## Requirements
