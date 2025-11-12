@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "MCP server for automated unit test generation for Angular, React, and Next.js projects",
   "type": "module",
+  "module": "src/index.ts",
   "main": "build/index.js",
   "bin": {
     "mcp-generate-unit-testing": "./build/index.js"
