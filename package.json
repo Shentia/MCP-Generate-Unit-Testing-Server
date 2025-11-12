@@ -38,6 +38,14 @@
   "bugs": {
     "url": "https://github.com/Shentia/MCP-Generate-Unit-Testing-Server/issues"
   },
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "files": [
+    "build/**/*",
+    "README.md",
+    "LICENSE"
+  ],
   "dependencies": {
     "@modelcontextprotocol/sdk": "^1.0.4",
     "@babel/parser": "^7.26.2",
